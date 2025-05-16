@@ -32,7 +32,10 @@ Con base en estos factores, se elabora un **informe final con una recomendación
 ## 📂 Estructura del Repositorio
 📁 proyecto-final-tiendas/  
 ├── 📄 README.md  
-├── 📄 AluraStoreLatam.ipynb  
-├── 📄 datos_tiendas.csv  
-└── 📁 visualizaciones/  
+├── 📄 AluraStoreLatam.ipynb    
+├── 📂 datos_tiendas.csv   
+    ├──tienda_1 .csv  
+    ├──tienda_2 .csv  
+    ├──tienda_3 .csv  
+    ├──tienda_4 .csv  
 

@@ -30,7 +30,7 @@ Con base en estos factores, se elabora un **informe final con una recomendación
 ---
 
 ## 📂 Estructura del Repositorio
-📁 proyecto-final-tiendas/
+📁 proyecto-final-tiendas/  
 ├── 📄 README.md  
 ├── 📄 informe_final.ipynb  
 ├── 📄 datos_tiendas.csv  
